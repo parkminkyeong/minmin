@@ -5,7 +5,7 @@
 
 <br>
 
-### **🏠 _배포 주소_** [https://github.com/Breath-of-the-Wild]
+### **🏠 _배포 주소_** [http://wonjungbucket.s3-website.ap-northeast-2.amazonaws.com/home]
 
 <br>
 <br>
