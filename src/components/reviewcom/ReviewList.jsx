@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import ImageDisplay from './ImageDisplay';
+import ImageDisplay from './ImageDIsplay';
 
 const ReviewList = ({ contentId }) => {
   const [reviewData, setReviewData] = useState([]);
